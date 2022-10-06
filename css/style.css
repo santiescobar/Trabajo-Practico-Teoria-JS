@@ -13,6 +13,7 @@ body{
     width: 960px;
     height: 800px;
     background-color: azure;
+    padding: 20px;
 }
 
 .respuestas{
@@ -21,6 +22,7 @@ body{
     width: 960px;
     height: 800px;
     background-color: azure;
+    padding: 20px;
 }
 
 header{
