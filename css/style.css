@@ -1,7 +1,39 @@
-body{
-    background-color: red;
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
-h1{
-    background-color: darkred;
+body{
+    background-color: crimson;
+}
+
+.preguntas{
+    margin: auto;
+    margin-top: 80px;
+    width: 960px;
+    height: 800px;
+    background-color: azure;
+}
+
+.respuestas{
+    margin: auto;
+    margin-top: 80px;
+    width: 960px;
+    height: 800px;
+    background-color: azure;
+}
+
+header{
+    display: flex;
+    background-color: azure;
+    height: 275px;
+    width: 100%;
+}
+
+header .info{
+    margin-top: 5%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+
 }
