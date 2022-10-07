@@ -39,3 +39,9 @@ header .info{
     justify-content: center;
 
 }
+.preguntas h1{
+    text-align: center;
+}
+.respuestas h1{
+    text-align: center;
+}
